@@ -29,11 +29,12 @@ Hi everyone, I'm AnClark Liu, a part-time software developer & musician. I alway
 
 ### Android/TWRP port
 
-| Project                                                      | Introduction                                                 | Note |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| [kernel-huawei-p6](https://github.com/AnClark/kernel-huawei-p6) | Kernel for Huawei Ascend P6.<br>I backported some features to this 3.0.x kernel. For example, SELinux policydb ver. 30, FunctionFS support.<br>This helps building TWRP with Omni 8.1 (or possibly newer). |      |
-| [TWRP Device Tree for Huawei B199](https://github.com/AnClark/twrp_device_huawei_g750c) | Build TWRP 3.x for Huawei B199.                              |      |
-| [kernel-huawei-msm8628](https://github.com/AnClark/android_kernel_huawei_msm8628) | Kernel for Huawei B199.<br>I backported FunctionFS there, so it can support ADB and MTP on Android 8.1. |      |
+| Project                                                      | Introduction                                                 | Note                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------- |
+| [TWRP Device Tree for Huawei P6](https://github.com/AnClark/device_huawei_hwp6_u06) | Build TWRP 3.x for Huawei Ascend P6. Support newer features in Omni 8.1 (FunctionFS, SELinux, etc.). | Use branch `omni-8.1-twrp` |
+| [kernel-huawei-p6](https://github.com/AnClark/kernel-huawei-p6) | Kernel for Huawei Ascend P6.<br>I backported some features to this 3.0.x kernel. For example, SELinux policydb ver. 30, FunctionFS support.<br>This helps building TWRP with Omni 8.1 (or possibly newer). |                            |
+| [TWRP Device Tree for Huawei B199](https://github.com/AnClark/twrp_device_huawei_g750c) | Build TWRP 3.x for Huawei B199. Support newer features in Omni 8.1 (FunctionFS, SELinux, etc.). |                            |
+| [kernel-huawei-msm8628](https://github.com/AnClark/android_kernel_huawei_msm8628) | Kernel for Huawei B199.<br>I backported FunctionFS there, so it can support ADB and MTP on Android 8.1. |                            |
 
 ### Improvements for applications
 
