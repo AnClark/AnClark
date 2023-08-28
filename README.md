@@ -22,8 +22,10 @@ Hi everyone, I'm AnClark Liu, a part-time software developer & musician. I alway
 | Project                                                      | Introduction                                                 | Note |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | [Minaton-XT](https://github.com/AnClark/Minaton-XT)          | DPF port of Minaton, an analog-modeled synthesizer by ThunderOx |      |
-| [synthv1](https://github.com/AnClark/synthv1)                | An old-school polyphonic synthesizer by rncbc. Port to DPF   |      |
-| [amsynth](https://github.com/AnClark/amsynth)                | Analog Modelling Synthesizer, with ImGui-based new generation UI | WIP  |
+| [synthv1](https://github.com/AnClark/synthv1-universal)      | An old-school polyphonic synthesizer by rncbc. Port to DPF   |      |
+| [padthv1](https://github.com/AnClark/padthv1-universal)      | an old-school 4-oscillator subtractive polyphonic synthesizer, by rncbc. Port to DPF |      |
+| [WSTD-FLANGR](https://github.com/AnClark/wstd-flangr/tree/anclark-dev) | A simple flanger FX plugin by Wasted Audio. I added a CMake-based build system for it, with some bug fixes of plugin itself |      |
+| [amsynth](https://github.com/AnClark/amsynth/tree/dpf-implementation) | Analog Modelling Synthesizer by Nick Dowell. Port to DPF, with an ImGui-based new generation UI | WIP  |
 | [Triceratops-XT](https://github.com/AnClark/triceratops)     | DPF port of Triceratops, a polyphonic virtual analogue synthesizer plugin by ThunderOx | WIP  |
 | [zyn-fusion-build](https://github.com/AnClark/zyn-fusion-build) | Enhanced build script for ZynAddSubFX, a powerful FOSS synthesizer |      |
 
@@ -62,5 +64,7 @@ Hi everyone, I'm AnClark Liu, a part-time software developer & musician. I alway
 - DPF (DISTRHO Plugin Framework):
   - Add external UI support for CMake ([commit](https://github.com/DISTRHO/DPF/commit/a338aa6559c8d8d79d0e062f6a2963f511c667c0))
 
+- Vee-One Suite (synthv1, padthv1, etc.)
+  - Add Win32 LV2 support ([contributions](https://github.com/rncbc/synthv1/commits?author=AnClark))
 - TWRP
   - Mi Max Prime: Add initial QSEE decryption support
