@@ -1,6 +1,6 @@
 # Welcome to AnClark Liu's GitHub repo!
 
-Hi everyone, I'm AnClark Liu, a part-time software developer & musician. I always love Free & Open Source and contributing to FOSS projects.
+This is AnClark Liu, a part-time software developer & musician. I always love Free & Open Source and contributing to FOSS projects.
 
 ## Skills
 
@@ -8,12 +8,11 @@ Hi everyone, I'm AnClark Liu, a part-time software developer & musician. I alway
 
 - Programming languages:
   - Mastered: C, C++, Python, JavaScript (ES5), HTML/CSS
-  - Moderate: Java, PHP, JavaScript (ES6)
-  - Learning: Rust
+  - Learning: Lua
 - Researches:
+  - Audio plugin implementation (LV2 -> DPF)
   - TWRP Recovery porting (until 2019)
   - OpenWRT build
-  - Audio plugin implementation (LV2 -> DPF)
 
 ## Portfolio
 
@@ -21,12 +20,13 @@ Hi everyone, I'm AnClark Liu, a part-time software developer & musician. I alway
 
 | Project                                                      | Introduction                                                 | Note |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|[Comprez](https://github.com/AnClark/Comprez)|A light-weight compressor based on Heavylib, with a vintage-style fuzz effect||
 | [Minaton-XT](https://github.com/AnClark/Minaton-XT)          | DPF port of Minaton, an analog-modeled synthesizer by ThunderOx |      |
+|[CetoneSynthLight](https://github.com/AnClark/CetoneSynthLight)|DPF port of Cetone Synth Light, a monophonic old-school synthesizer by Neotec Software |     |
 | [synthv1](https://github.com/AnClark/synthv1-universal)      | An old-school polyphonic synthesizer by rncbc. Port to DPF   |      |
 | [padthv1](https://github.com/AnClark/padthv1-universal)      | an old-school 4-oscillator subtractive polyphonic synthesizer, by rncbc. Port to DPF |      |
 | [WSTD-FLANGR](https://github.com/AnClark/wstd-flangr/tree/anclark-dev) | A simple flanger FX plugin by Wasted Audio. I added a CMake-based build system for it, with some bug fixes of plugin itself |      |
 | [amsynth](https://github.com/AnClark/amsynth/tree/dpf-implementation) | Analog Modelling Synthesizer by Nick Dowell. Port to DPF, with an ImGui-based new generation UI | WIP  |
-| [Triceratops-XT](https://github.com/AnClark/triceratops)     | DPF port of Triceratops, a polyphonic virtual analogue synthesizer plugin by ThunderOx | WIP  |
 | [zyn-fusion-build](https://github.com/AnClark/zyn-fusion-build) | Enhanced build script for ZynAddSubFX, a powerful FOSS synthesizer |      |
 
 ### Android/TWRP port
