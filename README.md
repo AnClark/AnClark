@@ -37,6 +37,11 @@ I also reverse-engineered **Kjaerhus Classic Series**, a well-known free VST bun
 - **[Classic Chorus RE-01](https://github.com/AnClark/ClassicChorus-RE01)**
 - **[Classic Master Limiter RE-01](https://github.com/AnClark/ClassicMasterLimiter-RE01)**
 
+### Former projects
+
+<details>
+  <summary>Click for more details</summary>
+
 ### Android/TWRP port
 
 | Project                                                      | Introduction                                                 | Note                       |
@@ -67,6 +72,8 @@ I also reverse-engineered **Kjaerhus Classic Series**, a well-known free VST bun
 | [Yilia (AnClark customized)](https://github.com/AnClark/anclark-yilia-theme-customized/) | Hexo Yilia theme. I migrated the theme to Webpack 5. |      |
 | [Yilia Plus](https://github.com/AnClark/hexo-theme-yilia-plus/) | Yilia plus theme. I migrated to Webpack 5 as well.   |      |
 
+</details>
+
 ## Contributions
 
 - DPF (DISTRHO Plugin Framework):
@@ -76,3 +83,5 @@ I also reverse-engineered **Kjaerhus Classic Series**, a well-known free VST bun
   - Add Win32 LV2 support ([contributions](https://github.com/rncbc/synthv1/commits?author=AnClark))
 - TWRP
   - Mi Max Prime: Add initial QSEE decryption support
+  
+
