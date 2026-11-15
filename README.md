@@ -22,7 +22,8 @@ This is AnClark Liu, a part-time software developer & musician. I always love Fr
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 |[Comprez](https://github.com/AnClark/Comprez)|A light-weight compressor based on Heavylib, with a vintage-style fuzz effect||
 |[Minaton-XT](https://github.com/AnClark/Minaton-XT)          | DPF port of Minaton, an analog-modeled synthesizer by ThunderOx |      |
-|[CetoneSynthLight](https://github.com/AnClark/CetoneSynthLight)|DPF port of Cetone Synth Light, an old-school synthesizer by Neotec Software. I implemented **polyphony** and preset manager. |     |
+|[CetoneSynthLight](https://github.com/AnClark/CetoneSynthLight)|DPF port of CetoneSynthLight, an old-school synthesizer by Neotec Software. I implemented **polyphony** and preset manager. |     |
+|[CetoneSynth](https://github.com/AnClark/CetoneSynth)             | DPF port of CetoneSynth, the deluxe version of CetoneSynthLight. I implemented **polyphony** and preset manager. |       |
 |[Cetone033](https://github.com/AnClark/Cetone033)             | DPF port of Cetone033, a chiptune-style bassline & lead synthesizer by Neotec Software. I implemented **polyphony** and preset manager. |       |
 | [synthv1](https://github.com/AnClark/synthv1-universal)      | An old-school polyphonic synthesizer by rncbc. Port to DPF   |      |
 | [padthv1](https://github.com/AnClark/padthv1-universal)      | an old-school 4-oscillator subtractive polyphonic synthesizer, by rncbc. Port to DPF |      |
