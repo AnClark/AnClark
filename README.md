@@ -33,7 +33,7 @@ This is AnClark Liu, a part-time software developer & musician. I always love Fr
 
 I also reverse-engineered **Kjaerhus Classic Series**, a well-known free VST bundle by Kjaerhus Audio, bringing the deprecated but legendary masterpieces to life in 2026. Originally they are legacy 32-bit, Windows-only VST2 plugins in early-2000s. Now they are cross-platform and work well on modern 64-bit platforms, with a preset manager.
 
-- **Classic Reverb RE**: 3 flavors of implementations ([RE-04](https://github.com/AnClark/ClassicReverb-RE04), [RE-03](https://github.com/AnClark/ClassicReverb-RE03), [RE-02](https://github.com/AnClark/ClassicReverb-RE02))
+- **Classic Reverb RE**: 4 flavors of implementations ([RE-01](https://github.com/AnClark/ClassicReverb-RE01), [RE-04](https://github.com/AnClark/ClassicReverb-RE04), [RE-03](https://github.com/AnClark/ClassicReverb-RE03), [RE-02](https://github.com/AnClark/ClassicReverb-RE02))
 - **Classic Flanger RE**: 2 flavors of sound ([RE-01](https://github.com/AnClark/ClassicFlanger-RE01), [RE-02](https://github.com/AnClark/ClassicFlanger-RE02))
 - **[Classic Chorus RE-01](https://github.com/AnClark/ClassicChorus-RE01)**
 - **[Classic Master Limiter RE-01](https://github.com/AnClark/ClassicMasterLimiter-RE01)**
