@@ -35,6 +35,7 @@ I also reverse-engineered **Kjaerhus Classic Series**, a well-known free VST bun
 
 - **Classic Reverb RE**: 4 flavors of implementations ([RE-01](https://github.com/AnClark/ClassicReverb-RE01), [RE-04](https://github.com/AnClark/ClassicReverb-RE04), [RE-03](https://github.com/AnClark/ClassicReverb-RE03), [RE-02](https://github.com/AnClark/ClassicReverb-RE02))
 - **Classic Flanger RE**: 2 flavors of sound ([RE-01](https://github.com/AnClark/ClassicFlanger-RE01), [RE-02](https://github.com/AnClark/ClassicFlanger-RE02))
+- **[Classic Phaser RE-01](https://github.com/AnClark/ClassicPhaser-RE01)**
 - **[Classic Chorus RE-01](https://github.com/AnClark/ClassicChorus-RE01)**
 - **[Classic Master Limiter RE-01](https://github.com/AnClark/ClassicMasterLimiter-RE01)**
 
